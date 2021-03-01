@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\bin\Debug\netcoreapp3.1\Practica_lista_nombres.exe
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\bin\Debug\netcoreapp3.1\Practica_lista_nombres.deps.json
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\bin\Debug\netcoreapp3.1\Practica_lista_nombres.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\bin\Debug\netcoreapp3.1\Practica_lista_nombres.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\bin\Debug\netcoreapp3.1\Practica_lista_nombres.dll
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\bin\Debug\netcoreapp3.1\Practica_lista_nombres.pdb
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.dll
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.pdb
+C:\Users\YeisonPX\source\repos\Practica_lista_nombres\Practica_lista_nombres\obj\Debug\netcoreapp3.1\Practica_lista_nombres.genruntimeconfig.cache
